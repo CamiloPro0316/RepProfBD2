@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: federationships
+    database: federationofplanets
+    schema: dbo
+    tables:
+      - name: uss_ships
